@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Escape-from-Tarkov-Loadout-Manager` · Updated: 2026-10-07
+`Escape-from-Tarkov-Loadout-Manager` · Updated: 2026-10-24
 
 **Tags:** `escape-from-tarkov` `loadout` `extraction` `inventory` `windows`
